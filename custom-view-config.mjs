@@ -10,7 +10,7 @@ const config = {
     },
     production: {
       customViewId: 'cmi8twzi90013v901gw1xc478',
-      url: 'https://ct-view-custom.netlify.app',
+      url: 'https://my-new-custom-view-project-black.vercel.app',
     },
   },
   oAuthScopes: {
